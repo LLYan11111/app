@@ -1,0 +1,8 @@
+{
+  "connection_string": "mongodb://IT-PC06.icshk.local/",
+  "database": "activity_tracker",
+  "options": {
+    "directConnection": true,
+    "serverSelectionTimeoutMS": 5000
+  }
+} 
