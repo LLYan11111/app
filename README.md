@@ -1,1 +1,2 @@
 https://www.dcard.tw/f/relationship/p/259329929
+https://copilotusagereports.blob.core.windows.net/reports/v2/92575199/2025-07-25/premium_usage_report_1_e9352ed1285741be9bd9ac456a6b848d.csv?se=2025-07-26T02%3A12%3A04Z&sig=5CG2YPpinmb7c1o1DU%2FDI2VA9tr9OQ5u0IIUveS6eUo%3D&ske=2025-07-26T02%3A12%3A03Z&skoid=0bb7de81-86ca-4574-8e41-7dd205653090&sks=b&skt=2025-07-25T02%3A11%3A53Z&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skv=2025-05-05&sp=r&spr=https&sr=b&st=2025-07-25T02%3A11%3A54Z&sv=2025-05-05
